@@ -9,9 +9,8 @@ import User from "./components/User";
 
 function App() {
   return (
-    <div className="App">
-      <User />
-      <Product />
+   <div className="App">
+      <First />
     </div>
   );
 }
